@@ -1,4 +1,4 @@
-package com.example.course.src.professor.dto;
+package com.example.course.src.course.dto;
 
 import com.example.course.src.domain.Student;
 import lombok.Getter;

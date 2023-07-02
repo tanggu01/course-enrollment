@@ -9,7 +9,7 @@ import com.example.course.src.domain.Student;
 import com.example.course.src.domain.StudentCourse;
 import com.example.course.src.phase.PhaseRepository;
 import com.example.course.src.student.StudentRepository;
-import com.example.course.src.student.dto.EnrollRequest;
+import com.example.course.src.studentcourse.dto.EnrollRequest;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

@@ -1,11 +1,11 @@
 package com.example.course.src.phase;
 
 import com.example.course.common.exception.CustomException;
-import com.example.course.src.admin.dto.PhaseRequest;
 import com.example.course.src.course.CourseRepository;
 import com.example.course.src.domain.Course;
 import com.example.course.src.domain.CourseStatus;
 import com.example.course.src.domain.Phase;
+import com.example.course.src.phase.dto.PhaseRequest;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

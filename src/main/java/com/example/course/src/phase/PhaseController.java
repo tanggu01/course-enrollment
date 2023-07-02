@@ -1,6 +1,6 @@
 package com.example.course.src.phase;
 
-import com.example.course.src.admin.dto.PhaseRequest;
+import com.example.course.src.phase.dto.PhaseRequest;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

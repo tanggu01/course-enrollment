@@ -1,9 +1,9 @@
 package com.example.course.src.course;
 
-import com.example.course.src.admin.dto.CourseListResponse;
-import com.example.course.src.admin.dto.CreateCourseRequest;
-import com.example.course.src.admin.dto.CreateCourseResponse;
-import com.example.course.src.professor.dto.CourseStudentListResponse;
+import com.example.course.src.course.dto.CourseListResponse;
+import com.example.course.src.course.dto.CourseStudentListResponse;
+import com.example.course.src.course.dto.CreateCourseRequest;
+import com.example.course.src.course.dto.CreateCourseResponse;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

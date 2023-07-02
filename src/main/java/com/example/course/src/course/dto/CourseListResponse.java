@@ -1,4 +1,4 @@
-package com.example.course.src.admin.dto;
+package com.example.course.src.course.dto;
 
 import com.example.course.src.domain.Course;
 import lombok.AllArgsConstructor;

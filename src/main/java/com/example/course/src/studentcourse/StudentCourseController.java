@@ -1,7 +1,7 @@
 package com.example.course.src.studentcourse;
 
 
-import com.example.course.src.student.dto.EnrollRequest;
+import com.example.course.src.studentcourse.dto.EnrollRequest;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

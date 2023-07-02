@@ -1,7 +1,7 @@
 package com.example.course.src.domain;
 
 
-import com.example.course.src.admin.dto.PhaseRequest;
+import com.example.course.src.phase.dto.PhaseRequest;
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

@@ -1,6 +1,6 @@
 package com.example.course.src.domain;
 
-import com.example.course.src.admin.dto.CreateCourseRequest;
+import com.example.course.src.course.dto.CreateCourseRequest;
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
