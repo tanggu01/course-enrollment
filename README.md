@@ -1,5 +1,3 @@
-# course-enrollment
-
 # Spring short project - Course Enrollment
 ## 주제 - 수강신청 프로세스
 
